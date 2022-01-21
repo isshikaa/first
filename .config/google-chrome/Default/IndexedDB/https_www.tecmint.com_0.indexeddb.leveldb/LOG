@@ -1,0 +1,6 @@
+2022/01/19-04:38:39.652 18fad Creating DB /home/irastogi/.config/google-chrome/Default/IndexedDB/https_www.tecmint.com_0.indexeddb.leveldb since it was missing.
+2022/01/19-04:38:39.661 18fad Reusing MANIFEST /home/irastogi/.config/google-chrome/Default/IndexedDB/https_www.tecmint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/19-04:39:13.054 18b9f Level-0 table #5: started
+2022/01/19-04:39:13.057 18b9f Level-0 table #5: 381 bytes OK
+2022/01/19-04:39:13.060 18b9f Delete type=0 #3
+2022/01/19-04:39:13.060 18b9f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

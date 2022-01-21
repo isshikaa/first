@@ -1,0 +1,147 @@
+{
+    "css-border-radius-2": {
+        "prefix": "css-border-radius-1",
+        "body": [
+            "\\$border-radius-base"
+        ],
+        "description": "2px"
+    },
+    "css-border-radius-4": {
+        "prefix": "css-border-radius-2",
+        "body": [
+            "\\$border-radius-sub"
+        ],
+        "description": "4px"
+    },
+    "css-font-12": {
+        "prefix": "css-font-1",
+        "body": [
+            "\\$font-size-sm"
+        ],
+        "description": "12px"
+    },
+    "css-font-14": {
+        "prefix": "css-font-2",
+        "body": [
+            "\\$font-size-base"
+        ],
+        "description": "14px"
+    },
+    "css-font-16": {
+        "prefix": "css-font-3",
+        "body": [
+            "\\$font-size-lg"
+        ],
+        "description": "16px"
+    },
+    "css-global": {
+        "prefix": "css-global",
+        "body": [
+            ":global {",
+            "}"
+        ],
+        "description": "global添加"
+    },
+    "css-height-64": {
+        "prefix": "css-height-64",
+        "body": [
+            "\\$height-nav"
+        ],
+        "description": "64px;"
+    },
+    "css-height-48": {
+        "prefix": "css-height-48",
+        "body": [
+            "\\$height-xl"
+        ],
+        "description": "48px;面包屑的高度"
+    },
+    "css-height-40": {
+        "prefix": "css-height-40",
+        "body": [
+            "\\$height-lg"
+        ],
+        "description": "40px;"
+    },
+    "css-height-36": {
+        "prefix": "css-height-36",
+        "body": [
+            "\\$height-md"
+        ],
+        "description": "36px;"
+    },
+    "css-height-32": {
+        "prefix": "css-height-32",
+        "body": [
+            "\\$height-sm"
+        ],
+        "description": "32px;"
+    },
+    "css-height-24": {
+        "prefix": "css-height-24",
+        "body": [
+            "\\$height-xs"
+        ],
+        "description": "24px;"
+    },
+    "css-space-4": {
+        "prefix": "css-space-1",
+        "body": [
+            "\\$space-xxs"
+        ],
+        "description": "4px"
+    },
+    "css-space-8": {
+        "prefix": "css-space-2",
+        "body": [
+            "\\$space-xs"
+        ],
+        "description": "8px;icon与内容之间的距离、icon与输入框等边框之间的距离、表单中说明文字与输入框的距离"
+    },
+    "css-space-12": {
+        "prefix": "css-space-3",
+        "body": [
+            "\\$space-sm"
+        ],
+        "description": "12px;输入框等内容的内间距，模块中底部操作按钮的上下间距等"
+    },
+    "css-space-16": {
+        "prefix": "css-space-4",
+        "body": [
+            "\\$space-md"
+        ],
+        "description": "16px;按钮的左右内间距、内容间的间距、内嵌型页面内边距，如输入框横向之间的间距、tab内容区内的模块中嵌入的内容"
+    },
+    "css-space-24": {
+        "prefix": "css-space-5",
+        "body": [
+            "\\$space-lg"
+        ],
+        "description": "24px;页面内间距、内容内边距、模块间间距"
+    },
+    "mx-size": {
+        "prefix": "mx-size",
+        "body": [
+            "@include size(100%, 100%);"
+        ],
+        "description": "宽高同时设置"
+    },
+    "mx-text-overflow-1": {
+        "prefix": "mx-text-overflow-1",
+        "body": [
+            "@include text-overflow();"
+        ],
+        "description": "单行省略..."
+    },
+    "mx-text-overflow-2": {
+        "prefix": "mx-text-overflow-2",
+        "body": [
+            "overflow:hidden;",
+            "text-overflow:ellipsis;",
+            "display:-webkit-box;",
+            "-webkit-line-clamp:2;",
+            "-webkit-box-orient:vertical;"
+        ],
+        "description": "多行省略..."
+    }
+}

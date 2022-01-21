@@ -1,0 +1,54 @@
+{
+   "checksum": "d09e288a8f57be8d41f864b825a56101",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286981824550125",
+            "guid": "5222a80e-e0da-4d07-b850-d56a98f838b0",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13286981824550466",
+            "guid": "b67197ef-8792-4fe1-a87c-ce72df1c2b43",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13286981827626207",
+            "guid": "a94eaf94-d8ed-48ce-a2b1-cdc1e499e761",
+            "id": "8",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         } ],
+         "date_added": "13286981820441543",
+         "date_modified": "13286981827626207",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286981820441544",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13286981820441545",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

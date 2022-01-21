@@ -1,0 +1,7 @@
+2022/01/19-05:28:26.897 19afd Reusing MANIFEST /home/irastogi/.config/google-chrome/Default/IndexedDB/https_bece64d06d5d49d9c228900948088e5c.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/19-05:28:26.897 19afd Recovering log #3
+2022/01/19-05:28:26.897 19afd Reusing old log /home/irastogi/.config/google-chrome/Default/IndexedDB/https_bece64d06d5d49d9c228900948088e5c.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2022/01/19-05:29:54.941 19a3f Level-0 table #5: started
+2022/01/19-05:29:54.944 19a3f Level-0 table #5: 460 bytes OK
+2022/01/19-05:29:54.946 19a3f Delete type=0 #3
+2022/01/19-05:29:54.947 19a3f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

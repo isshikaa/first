@@ -1,0 +1,6 @@
+[2022-01-18 23:25:36.787] [renderer1] [error] [Extension Host] (node:3661) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-18 23:25:46.563] [renderer1] [error] Error while registering log channel file:///home/irastogi/.config/Code/logs/20220118T232535/userDataSync.log Timed out while waiting for file to be created
+[2022-01-18 23:25:48.866] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)

@@ -1,0 +1,13 @@
+2022/01/21-00:45:06.112 44e5 Reusing MANIFEST /home/irastogi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/21-00:45:06.112 44e5 Recovering log #15
+2022/01/21-00:45:06.113 44e5 Reusing old log /home/irastogi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2022/01/21-00:45:07.921 44b7 Level-0 table #20: started
+2022/01/21-00:45:07.936 44b7 Level-0 table #20: 56079 bytes OK
+2022/01/21-00:45:07.939 44b7 Delete type=0 #15
+2022/01/21-00:45:07.939 44b7 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/21-00:45:08.028 452c Compacting 1@1 + 1@2 files
+2022/01/21-00:45:08.037 452c Generated table #21@1: 371 keys, 27647 bytes
+2022/01/21-00:45:08.037 452c Compacted 1@1 + 1@2 files => 27647 bytes
+2022/01/21-00:45:08.041 452c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/21-00:45:08.041 452c Delete type=2 #17
+2022/01/21-00:45:08.041 452c Delete type=2 #20
