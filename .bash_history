@@ -168,3 +168,31 @@ cd /opt/
 mkdir repo
 git --version
 su
+GIT INIT
+get init
+git init
+git add README.md
+git add
+git add .
+git commit -m "first commit"
+git branch -M  main
+git remote add origin https://github.com/isshikaa/first.git
+git push -u origin main
+git init
+cd Desktop
+cd index.html
+git init
+git add .
+git commit -m "first commit"
+git remote add origin 'git branch -M main'
+git remote add origin https://github.com/isshikaa/firstfile.git
+git push -u origin main
+git branch -M main
+git remote add origin https://github.com/isshikaa/firstfile.git
+git push -u origin main
+cd Desktop
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/isshikaa/firstfile.git

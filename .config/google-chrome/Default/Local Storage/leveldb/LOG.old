@@ -1,6 +1,20 @@
-2022/01/19-22:49:02.427 3 Reusing MANIFEST /home/irastogi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/01/19-22:49:02.428 3 Recovering log #28
-2022/01/19-22:49:02.434 3 Reusing old log /home/irastogi/.config/google-chrome/Default/Local Storage/leveldb/000028.log 
-2022/01/20-00:43:20.100 18 Level-0 table #32: started
-2022/01/20-00:43:20.104 18 Level-0 table #32: 20230 bytes OK
-2022/01/20-00:43:20.107 18 Delete type=0 #28
+2022/01/20-22:59:12.276 3 Reusing MANIFEST /home/irastogi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/20-22:59:12.276 3 Recovering log #31
+2022/01/20-22:59:12.277 3 Level-0 table #34: started
+2022/01/20-22:59:12.290 3 Level-0 table #34: 46243 bytes OK
+2022/01/20-22:59:12.300 3 Delete type=0 #31
+2022/01/20-23:46:28.738 14 Level-0 table #37: started
+2022/01/20-23:46:28.746 14 Level-0 table #37: 375622 bytes OK
+2022/01/20-23:46:28.749 14 Delete type=0 #35
+2022/01/20-23:46:28.750 14 Compacting 4@0 + 1@1 files
+2022/01/20-23:46:28.763 14 Generated table #38@0: 660 keys, 685421 bytes
+2022/01/20-23:46:28.763 14 Compacted 4@0 + 1@1 files => 685421 bytes
+2022/01/20-23:46:28.765 14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/20-23:46:28.766 14 Delete type=2 #26
+2022/01/20-23:46:28.766 14 Delete type=2 #29
+2022/01/20-23:46:28.766 14 Delete type=2 #32
+2022/01/20-23:46:28.766 14 Delete type=2 #34
+2022/01/20-23:46:28.766 14 Delete type=2 #37
+2022/01/21-00:24:09.017 14 Level-0 table #40: started
+2022/01/21-00:24:09.023 14 Level-0 table #40: 43230 bytes OK
+2022/01/21-00:24:09.026 14 Delete type=0 #36

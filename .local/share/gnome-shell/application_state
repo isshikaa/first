@@ -6,11 +6,10 @@
     <application id="yelp.desktop" score="0" last-seen="1642567325"/>
     <application id="firefox.desktop" score="342" last-seen="1642566824"/>
     <application id="org.gnome.Nautilus.desktop" score="74" last-seen="1642746232"/>
-    <application id="code.desktop" score="160" last-seen="1642746025"/>
-    <application id="google-chrome.desktop" score="3434" last-seen="1642746238"/>
+    <application id="code.desktop" score="241" last-seen="1642756205"/>
+    <application id="google-chrome.desktop" score="4610" last-seen="1642756090"/>
     <application id="org.gnome.gedit.desktop" score="7" last-seen="1642576299"/>
-    <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" score="4566" last-seen="1642745452"/>
+    <application id="org.gnome.Terminal.desktop" score="4570" last-seen="1642756183"/>
     <application id="org.gnome.Software.desktop" score="11" last-seen="1642507073"/>
   </context>
 </application-state>
